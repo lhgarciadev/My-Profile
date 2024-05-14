@@ -1,0 +1,19 @@
+/* CSS rule for the image with a border */
+#photo {
+    border: 2px solid blue;
+}
+
+/* CSS rule for heading 1 containing your name */
+#name h1 {
+    color: blue;
+}
+
+/* CSS rule for all <h2> headings */
+h2 {
+    color: grey;
+}
+
+/* CSS rule that applies a margin to the divider elements */
+div {
+    margin: 4px;
+}
